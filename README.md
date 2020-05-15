@@ -1,6 +1,8 @@
 # GeeksForGeeksScrapper
 Scrapes [GeeksForGeeks](http://www.geeksforgeeks.org) and creates html & PDF for chosen category along with syntax highlighting for the code.
 
+![black](https://github.com/itsvinayak/GeeksForGeeksScrapper/workflows/black/badge.svg?branch=master&event=push)
+
 ## Screenshots
 
 Example of articles of C category as html:
